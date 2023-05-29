@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Calculadora</title>
+  <title>Mini Calculadora</title>
   <style>
     .calculator {
-      max-width: 320px;
+      width: 150px;
       border: 1px solid #ccc;
-      padding: 10px;
-      border-radius: 10px;
+      padding: 5px;
+      border-radius: 5px;
       margin: 0 auto;
     }
 
     .calculator input {
       width: 100%;
-      margin-bottom: 10px;
-      padding: 10px;
-      font-size: 20px;
+      margin-bottom: 5px;
+      padding: 5px;
+      font-size: 14px;
     }
 
     .calculator button {
       width: 48%;
-      padding: 10px;
-      margin-bottom: 5px;
-      font-size: 16px;
+      padding: 5px;
+      margin-bottom: 2px;
+      font-size: 12px;
     }
 
     .calculator .clear {
